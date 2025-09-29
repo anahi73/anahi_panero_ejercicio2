@@ -1,5 +1,11 @@
 Hola soy Anahi
 Hola, hola
 Hola
+<<<<<<< HEAD
 ADD THE FIRST LINE
 ADD THE SECOND LINE
+=======
+Add several lines
+Add several lines
+Add several lines
+>>>>>>> anahi_pañero_rama
